@@ -22,7 +22,7 @@ Focused on **offensive & defensive cybersecurity**, network traffic analysis, an
 - ⚔️ **[@Spoofer-Phish](https://github.com/Spoofer-Phish) & [targiPracy2026CTF](https://github.com/Spoofer-Phish/targiPracy2026CTF)** — Co-founded the cybersecurity science club at PK. Designed deployed vulnerable-by-design CTF challenges for university job fairs.
 - 🔒 **Zero-Trust Homelab & IDS Playground** — Personal **Proxmox VE** & **Docker/LXC** infrastructure used as a defensive testing ground. Hardened with **Cloudflare Zero Trust** access policies, VPN-routed containers, **NGINX** reverse proxy, and active **IDS** traffic monitoring.
 - 🐉 **[Smok Przewodnik (HackYeah)](https://github.com/Anita-Bath/smok-przewodnik)** — Crowdsourced municipal accessibility platform built during the HackYeah hackathon.
-- 🤓 **Computer Networking Basics @ Spoofer-Phish](https://github.com/Spoofer-Phish/szkolenie_sieci)** — Developed teaching materials and interactive lab scenarios for student workshops covering switching, routing, and packet analysis.
+- 🤓 **[Computer Networking Basics @ Spoofer-Phish](https://github.com/Spoofer-Phish/szkolenie_sieci)** — Developed teaching materials and interactive lab scenarios for student workshops covering switching, routing, and packet analysis.
 ---
 
 ### 🏅 Verified Credentials
